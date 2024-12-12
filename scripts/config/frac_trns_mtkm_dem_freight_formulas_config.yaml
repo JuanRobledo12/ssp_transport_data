@@ -1,0 +1,4 @@
+frac_trns_mtkm_dem_freight_water_borne: "row['COAST'] / row['Total']"
+frac_trns_mtkm_dem_freight_road_heavy_freight: "(row['ROAD'] + row['INLAND']) / row['Total']"
+frac_trns_mtkm_dem_freight_rail_freight: "row['RAIL'] / row['Total']"
+frac_trns_mtkm_dem_freight_aviation: "row['Aviation (mtkm)'] / row['Total']"

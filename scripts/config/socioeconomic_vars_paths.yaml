@@ -1,0 +1,6 @@
+gdp_hist: '../data/processed/historical/gdp_mmm_usd.csv'
+gdp_proj: '../data/processed/projected/gdp_mmm_usd.csv'
+pop_rural_hist: '../data/processed/historical/population_gnrl_rural.csv'
+pop_rural_proj: '../data/processed/projected/population_gnrl_rural.csv'
+pop_urban_hist: '../data/processed/historical/population_gnrl_urban.csv'
+pop_urban_proj: '../data/processed/projected/population_gnrl_urban.csv'
